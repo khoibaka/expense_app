@@ -1,6 +1,6 @@
 # expense_app
 
-A new Flutter project.
+My personal project that learn how to create mobile application frontend using Flutter.
 
 ## Getting Started
 
